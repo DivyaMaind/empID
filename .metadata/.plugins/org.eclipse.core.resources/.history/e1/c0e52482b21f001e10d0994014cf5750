@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<body>
+<div style="text-align: center;">
+	<h1>Hi Welcome to the application</h1>
+		<form action="register">
+			 ID :<input type="text" name="sid"><br></br>
+			 NAME :<input type="text" name="sname"><br></br>
+			 phone :<input type="text" name="phone"><br></br>
+			 Marks :<input type="text" name="marks"><br></br>
+			 branch :<input type="text" name="branch"><br></br>
+			<input type ="Submit" value="REGISTER">
+			</form>
+	</div>
+</body>
+</html>
+</body>
+</html>
